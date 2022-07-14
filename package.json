@@ -1,0 +1,22 @@
+{
+  "name": "webmashup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "mapbox": "^1.0.0-beta10",
+    "mapbox-gl": "^2.6.0",
+    "mongoose": "^6.0.13",
+    "request": "^2.88.2",
+    "scriptjs": "^2.5.9"
+  }
+}
